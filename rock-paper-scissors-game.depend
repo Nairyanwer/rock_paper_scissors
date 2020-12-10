@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607557510 source:c:\users\stem-luxor\desktop\rock-paper-scissors-game\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<ctime>
+
